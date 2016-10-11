@@ -1,22 +1,22 @@
-# _{My First Webpage}_
+# My First Webpage
 
-#### _{My First Webpage exercise for Epicodus}, {10.10.16}_
+#### _My First Webpage exercise for Epicodus, 10.10.16_
 
-#### By _**{Suzi Rubino and Andrea Faciane}**_
+#### By _**Suzi Rubino and Andrea Faciane**_
 
 ## Description
 
-_{Set up a webpage using html block and inline elements. Make corrections and additions to webpage. Use github to add, commit, post and clone the project}_
+Set up a webpage using html block and inline elements. Make corrections and additions to webpage. Use github to add, commit, post and clone the project
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open a browser and navigate to either my-first-webpage.html or favorite_things.html to open file_
+* Clone this repository
+* Open a browser and navigate to either my-first-webpage.html or favorite_things.html to open file
 
 
 ## Known Bugs
 
-_{Didn't build link from my-first-webpage.html to favorite_things.html}_
+_Didn't build link from my-first-webpage.html to favorite_things.html_
 
 
 ## Technologies Used
