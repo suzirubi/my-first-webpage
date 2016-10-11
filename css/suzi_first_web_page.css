@@ -1,6 +1,6 @@
 h1 {
   color: #D2691E;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
   line-height: 40px;
   font-family: sans-serif;
@@ -8,7 +8,7 @@ h1 {
 
 h2 {
   color: 	#D3D3D3;
-  text-align: center;
+  text-align: left;
   font-style: italic;
   font-size: 20px;
   line-height: 30px;
