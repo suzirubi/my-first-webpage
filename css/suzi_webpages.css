@@ -34,3 +34,13 @@ ul {
   line-height: 30px;
   font-family: sans-serif;
 }
+
+ol {
+  list-style-type: upper-roman;;
+  color: 	#808080;
+  text-align: left;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: sans-serif;
+}
